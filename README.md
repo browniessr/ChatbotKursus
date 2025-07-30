@@ -13,6 +13,3 @@ Fitur Utama
 ```bash
 git clone https://github.com/browniessr/ChatbotKursus.git
 cd ChatbotKursus
-
-```
-python main_w_dst.py
