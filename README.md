@@ -9,6 +9,8 @@ Fitur Utama
 - Dukungan multi-intent (via DST - Dialog State Tracking)
 - Konfigurasi jawaban berbasis file JSON
 
+## Cara Clone Proyek
+```bash
 git clone https://github.com/browniessr/ChatbotKursus.git
 cd ChatbotKursus
 
