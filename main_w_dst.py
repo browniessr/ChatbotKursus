@@ -95,10 +95,11 @@ class IndoBERTBot:
 
 
 if __name__ == "__main__":
-    TOKEN = "8017210730:AAFrIkZ80tbOy5E8uVB_XZUt9qorjw94yWU"
+    TOKEN = ""
     MODEL_PATH = "pixelbitter/indobert_89"
     LABEL_JSON_PATH = "indobert_newest_label.json"
     ANSWER_JSON_PATH = "answer.json"
 
     bot = IndoBERTBot(TOKEN, MODEL_PATH, LABEL_JSON_PATH, ANSWER_JSON_PATH)
     bot.run()
+
